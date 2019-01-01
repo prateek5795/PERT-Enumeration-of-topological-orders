@@ -1,7 +1,7 @@
 # PERT-Enumeration-of-topological-orders
 
 CS 5V81.001.  Implementation of data structures and algorithms  
-Fall 2018;  Fri, Nov 2  
+Fall 2018  
 Long Project LP4: PERT, Enumeration of topological orders  
 
 Authors - Team LP101
